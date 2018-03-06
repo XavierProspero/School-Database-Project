@@ -1,0 +1,6 @@
+/** Working */
+load students;
+print students;
+select SID from students;
+select SID from students where Lastname != 'Chan';
+quit;
