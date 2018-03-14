@@ -1,7 +1,7 @@
 This is a relational database management system created by Xavier Prospero for a school project. 
 A rough skeleton file was provided for guidance. 
 
-I implemented all formats of manipulating and storing data. Keeping in mind space and time efficiency. 
+I implemented all formats of manipulating and storing data. Keeping in mind space and time efficiency. The project was thoroughly tested with my JUnit and integration tests that can be found in /testing. 
 
 See https://inst.eecs.berkeley.edu/~cs61b/fa17/materials/proj/proj1/index.html for further project specs and syntax for manipulating the database. 
 
